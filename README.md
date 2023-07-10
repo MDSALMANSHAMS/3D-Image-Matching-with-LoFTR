@@ -26,3 +26,5 @@ To download the model weights, click [here](https://drive.google.com/drive/folde
 <img width="500" alt="r1" src="https://github.com/MDSALMANSHAMS/3D-Image-Matching-with-LoFTR/assets/68110323/648876b1-3e55-4360-941c-025a4c0e4734">
 <img width="500" alt="r2" src="https://github.com/MDSALMANSHAMS/3D-Image-Matching-with-LoFTR/assets/68110323/c2249a08-bd42-453e-9d0c-add0a9bdf497">
 
+## Copyright
+This work is affiliated with ZJU-SenseTime Joint Lab of 3D Vision, and its intellectual property belongs to SenseTime Group Ltd.
