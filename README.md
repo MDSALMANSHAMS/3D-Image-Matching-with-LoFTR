@@ -19,4 +19,4 @@ LoFTR stand for Detector-Free Local Feature Matching with Transformers. LoFTR ca
 4. For every selected coarse prediction (i, j) E M(c), a local window with size (w x w) is cropped from the fine-level feature map. Coarse matches will be refined within this local window to a sub-pixel level as the final match prediction M(f).
 
 ## Weights
-To download the model weights, click [here]((https://drive.google.com/drive/folders/1xu2Pq6mZT5hmFgiYMBT9Zt8h1yO-3SIp?usp=sharing)https://drive.google.com/drive/folders/1xu2Pq6mZT5hmFgiYMBT9Zt8h1yO-3SIp?usp=sharing)!
+To download the model weights, click [here](https://drive.google.com/drive/folders/1xu2Pq6mZT5hmFgiYMBT9Zt8h1yO-3SIp?usp=drive_link)!
