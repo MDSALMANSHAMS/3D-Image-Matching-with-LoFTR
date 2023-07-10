@@ -20,3 +20,9 @@ LoFTR stand for Detector-Free Local Feature Matching with Transformers. LoFTR ca
 
 ## Weights
 To download the model weights, click [here](https://drive.google.com/drive/folders/1xu2Pq6mZT5hmFgiYMBT9Zt8h1yO-3SIp?usp=drive_link)!
+
+## Results
+
+<img width="557" alt="r1" src="https://github.com/MDSALMANSHAMS/3D-Image-Matching-with-LoFTR/assets/68110323/648876b1-3e55-4360-941c-025a4c0e4734">
+<img width="558" alt="r2" src="https://github.com/MDSALMANSHAMS/3D-Image-Matching-with-LoFTR/assets/68110323/c2249a08-bd42-453e-9d0c-add0a9bdf497">
+
