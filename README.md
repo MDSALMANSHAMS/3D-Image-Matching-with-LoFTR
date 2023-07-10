@@ -2,7 +2,13 @@
 
 ![alt text](https://github.com/zju3dv/LoFTR/blob/master/assets/loftr-github-demo.gif)
 
+### Paper
+LoFTR: Detector-Free Local Feature Matching with Transformers
+Jiaming Sun*, Zehong Shen*, Yu'ang Wang*, Hujun Bao, Xiaowei Zhou
+CVPR 2021
+
 ## Introduction
+LoFTR stand for Detector-Free Local Feature Matching with Transformers.
 
  <img width="842" alt="pipeline" src="https://github.com/MDSALMANSHAMS/3D-Image-Matching-with-LoFTR/assets/68110323/6edb7862-e9b9-4577-870a-50bf4d318fdc">
 
