@@ -4,6 +4,7 @@
 
 ### Research Paper
 LoFTR: Detector-Free Local Feature Matching with Transformers
+
 Jiaming Sun*, Zehong Shen*, Yu'ang Wang*, Hujun Bao, Xiaowei Zhou
 CVPR 2021
 
